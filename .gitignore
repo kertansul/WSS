@@ -1,3 +1,4 @@
 *.zip
 *.caffemodel
 sal_res
+*.ipynb_checkpoints*
